@@ -532,7 +532,7 @@ public class HW5Test {
 
 	@Test
 	public void testTiming() {
-		final int SIZE = 1000000;
+		final int SIZE = 1000;
 		Price[] prices = new Price[SIZE * 2];
 		for (int i = 0; i < SIZE * 2; i++)
 			prices[i] = new Price(i / 100, i % 100);

@@ -107,7 +107,7 @@ public class PriceQueue implements Iterable<Price> {
     }
 
     private boolean treeAdd(TreeNode node, Price price) {
-        if (node == null) {
+        if (root == null) {
             TreeNode newNode = new TreeNode();
             newNode.price = price;
             newNode.queuePosition = null;
@@ -117,16 +117,9 @@ public class PriceQueue implements Iterable<Price> {
         if (price.compareTo(node.price) == 0) {
             return false;
         }
-        if (root == null) {
-            TreeNode newNode = new TreeNode();
-            newNode.price = price;
-            newNode.queuePosition = null;
-            root = newNode;
-            return true;
-        }
         TreeNode currNode = root;
         while (true) {
-            if (price.compareTo(node.price) == 0) {
+            if (price.compareTo(currNode.price) == 0) {
                 return false;
             }
             if (price.compareTo(currNode.price) < 0) {
@@ -134,7 +127,7 @@ public class PriceQueue implements Iterable<Price> {
                     TreeNode newNode = new TreeNode();
                     newNode.price = price;
                     newNode.queuePosition = last;
-                    node.left = newNode;
+                    currNode.left = newNode;
                     return true;
                 }
                 currNode = currNode.left;
@@ -143,10 +136,10 @@ public class PriceQueue implements Iterable<Price> {
                     TreeNode newNode = new TreeNode();
                     newNode.price = price;
                     newNode.queuePosition = last;
-                    node.left = newNode;
+                    currNode.right = newNode;
                     return true;
                 }
-                currNode = currNode.left;
+                currNode = currNode.right;
             }
         }
     }
@@ -174,11 +167,7 @@ public class PriceQueue implements Iterable<Price> {
     }
 
     private TreeNode treeSearch(TreeNode node, Price price) {
-        if (node == null) {
-            return null;
-        }
-
-        TreeNode currNode = node;
+        TreeNode currNode = root;
         while (true) {
             if (currNode == null) {
                 return null;
@@ -228,8 +217,8 @@ public class PriceQueue implements Iterable<Price> {
             }
             return;
         }
-        TreeNode currNode = node;
-        TreeNode parent = root;
+        TreeNode currNode = root;
+        TreeNode parent = null;
 
         while (true) {
             if (currNode == null) {
