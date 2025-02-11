@@ -1,2751 +1,2758 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Average",
-            "request": "launch",
-            "mainClass": "algs11.Average",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BinarySearch",
-            "request": "launch",
-            "mainClass": "algs11.BinarySearch",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Cat",
-            "request": "launch",
-            "mainClass": "algs11.Cat",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Hello",
-            "request": "launch",
-            "mainClass": "algs11.Hello",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Immut",
-            "request": "launch",
-            "mainClass": "algs11.Immut",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "L1",
-            "request": "launch",
-            "mainClass": "algs11.L1",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Lecture1",
-            "request": "launch",
-            "mainClass": "algs11.Lecture1",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyArrayFunctions",
-            "request": "launch",
-            "mainClass": "algs11.MyArrayFunctions",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyBinarySearchRemoveDuplicates",
-            "request": "launch",
-            "mainClass": "algs11.MyBinarySearchRemoveDuplicates",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyFibonacci",
-            "request": "launch",
-            "mainClass": "algs11.MyFibonacci",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyFirstHomeworkFor300",
-            "request": "launch",
-            "mainClass": "algs11.MyFirstHomeworkFor300",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyFirstHomeworkFor300PartTwo",
-            "request": "launch",
-            "mainClass": "algs11.MyFirstHomeworkFor300PartTwo",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyFirstHomeworkFor402",
-            "request": "launch",
-            "mainClass": "algs11.MyFirstHomeworkFor402",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MySecondHomework",
-            "request": "launch",
-            "mainClass": "algs11.MySecondHomework",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyShuffleTest",
-            "request": "launch",
-            "mainClass": "algs11.MyShuffleTest",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Playground",
-            "request": "launch",
-            "mainClass": "algs11.Playground",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PlaygroundContainsSorted",
-            "request": "launch",
-            "mainClass": "algs11.PlaygroundContainsSorted",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PlaygroundContainsUnsorted",
-            "request": "launch",
-            "mainClass": "algs11.PlaygroundContainsUnsorted",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PlaygroundLongestSequenceOf5s",
-            "request": "launch",
-            "mainClass": "algs11.PlaygroundLongestSequenceOf5s",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PlaygroundMax",
-            "request": "launch",
-            "mainClass": "algs11.PlaygroundMax",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PlaygroundMerge",
-            "request": "launch",
-            "mainClass": "algs11.PlaygroundMerge",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PlaygroundPerformance",
-            "request": "launch",
-            "mainClass": "algs11.PlaygroundPerformance",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PlaygroundSumUntil",
-            "request": "launch",
-            "mainClass": "algs11.PlaygroundSumUntil",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Point2",
-            "request": "launch",
-            "mainClass": "algs11.Point2",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "RandomSeq",
-            "request": "launch",
-            "mainClass": "algs11.RandomSeq",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Shuffle",
-            "request": "launch",
-            "mainClass": "algs11.Shuffle",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Tree",
-            "request": "launch",
-            "mainClass": "algs11.Tree",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XArrayFunctions",
-            "request": "launch",
-            "mainClass": "algs11.XArrayFunctions",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XAutoboxing",
-            "request": "launch",
-            "mainClass": "algs11.XAutoboxing",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XAutoboxingValueOf",
-            "request": "launch",
-            "mainClass": "algs11.XAutoboxingValueOf",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBinomial",
-            "request": "launch",
-            "mainClass": "algs11.XBinomial",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBouncingBall",
-            "request": "launch",
-            "mainClass": "algs11.XBouncingBall",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XDrawArray",
-            "request": "launch",
-            "mainClass": "algs11.XDrawArray",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XDrawArraySorted",
-            "request": "launch",
-            "mainClass": "algs11.XDrawArraySorted",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XDrawFunctions",
-            "request": "launch",
-            "mainClass": "algs11.XDrawFunctions",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XDrawRightTriangle",
-            "request": "launch",
-            "mainClass": "algs11.XDrawRightTriangle",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XEuclid",
-            "request": "launch",
-            "mainClass": "algs11.XEuclid",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XRuler",
-            "request": "launch",
-            "mainClass": "algs11.XRuler",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSwap",
-            "request": "launch",
-            "mainClass": "algs11.XSwap",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XWget",
-            "request": "launch",
-            "mainClass": "algs11.XWget",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "lec1",
-            "request": "launch",
-            "mainClass": "algs11.lec1",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "temp",
-            "request": "launch",
-            "mainClass": "algs11.temp",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Complex",
-            "request": "launch",
-            "mainClass": "algs12.Complex",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Counter",
-            "request": "launch",
-            "mainClass": "algs12.Counter",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "CounterClient",
-            "request": "launch",
-            "mainClass": "algs12.CounterClient",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Date",
-            "request": "launch",
-            "mainClass": "algs12.Date",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "FractionClient",
-            "request": "launch",
-            "mainClass": "algs12.FractionClient",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Hello(1)",
-            "request": "launch",
-            "mainClass": "algs12.Hello",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Interval1D",
-            "request": "launch",
-            "mainClass": "algs12.Interval1D",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Interval2D",
-            "request": "launch",
-            "mainClass": "algs12.Interval2D",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyRecursiveRectangles",
-            "request": "launch",
-            "mainClass": "algs12.MyRecursiveRectangles",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Point2D",
-            "request": "launch",
-            "mainClass": "algs12.Point2D",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Transaction",
-            "request": "launch",
-            "mainClass": "algs12.Transaction",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Vector",
-            "request": "launch",
-            "mainClass": "algs12.Vector",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Whitelist",
-            "request": "launch",
-            "mainClass": "algs12.Whitelist",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XAccumulator",
-            "request": "launch",
-            "mainClass": "algs12.XAccumulator",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XArrayStats",
-            "request": "launch",
-            "mainClass": "algs12.XArrayStats",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XArrayStatsStatic",
-            "request": "launch",
-            "mainClass": "algs12.XArrayStatsStatic",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XCard",
-            "request": "launch",
-            "mainClass": "algs12.XCard",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XCardSimple",
-            "request": "launch",
-            "mainClass": "algs12.XCardSimple",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XFields",
-            "request": "launch",
-            "mainClass": "algs12.XFields",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XFlips",
-            "request": "launch",
-            "mainClass": "algs12.XFlips",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XFlipsMax",
-            "request": "launch",
-            "mainClass": "algs12.XFlipsMax",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XMutableString",
-            "request": "launch",
-            "mainClass": "algs12.XMutableString",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XRolls",
-            "request": "launch",
-            "mainClass": "algs12.XRolls",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XStrings",
-            "request": "launch",
-            "mainClass": "algs12.XStrings",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XVisualAccumulator",
-            "request": "launch",
-            "mainClass": "algs12.XVisualAccumulator",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Bag",
-            "request": "launch",
-            "mainClass": "algs13.Bag",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "LinkedList",
-            "request": "launch",
-            "mainClass": "algs13.LinkedList",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyDeque",
-            "request": "launch",
-            "mainClass": "algs13.MyDeque",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyLinked0",
-            "request": "launch",
-            "mainClass": "algs13.MyLinked0",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyLinked1",
-            "request": "launch",
-            "mainClass": "algs13.MyLinked1",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyLinked2",
-            "request": "launch",
-            "mainClass": "algs13.MyLinked2",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyLinked2GenericTests",
-            "request": "launch",
-            "mainClass": "algs13.MyLinked2GenericTests",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyLinked3",
-            "request": "launch",
-            "mainClass": "algs13.MyLinked3",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyQueueCircular",
-            "request": "launch",
-            "mainClass": "algs13.MyQueueCircular",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyRandomQueue",
-            "request": "launch",
-            "mainClass": "algs13.MyRandomQueue",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Playground(1)",
-            "request": "launch",
-            "mainClass": "algs13.Playground",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PlaygroundA",
-            "request": "launch",
-            "mainClass": "algs13.PlaygroundA",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PlaygroundInsert",
-            "request": "launch",
-            "mainClass": "algs13.PlaygroundInsert",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PlaygroundNumUnique",
-            "request": "launch",
-            "mainClass": "algs13.PlaygroundNumUnique",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PlaygroundWithNonStaticNode",
-            "request": "launch",
-            "mainClass": "algs13.PlaygroundWithNonStaticNode",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Queue",
-            "request": "launch",
-            "mainClass": "algs13.Queue",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "ResizingArray",
-            "request": "launch",
-            "mainClass": "algs13.ResizingArray",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "ResizingArrayBag",
-            "request": "launch",
-            "mainClass": "algs13.ResizingArrayBag",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "ResizingArrayQueue",
-            "request": "launch",
-            "mainClass": "algs13.ResizingArrayQueue",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "ResizingArrayStack",
-            "request": "launch",
-            "mainClass": "algs13.ResizingArrayStack",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Stack",
-            "request": "launch",
-            "mainClass": "algs13.Stack",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "StackWithNonStaticNode",
-            "request": "launch",
-            "mainClass": "algs13.StackWithNonStaticNode",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBTree",
-            "request": "launch",
-            "mainClass": "algs13.XBTree",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XClientQueue",
-            "request": "launch",
-            "mainClass": "algs13.XClientQueue",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XDirectory",
-            "request": "launch",
-            "mainClass": "algs13.XDirectory",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XEvaluate",
-            "request": "launch",
-            "mainClass": "algs13.XEvaluate",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XEvaluateDeluxe",
-            "request": "launch",
-            "mainClass": "algs13.XEvaluateDeluxe",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XFixedCapacityIterableStack",
-            "request": "launch",
-            "mainClass": "algs13.XFixedCapacityIterableStack",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XFixedCapacityStack",
-            "request": "launch",
-            "mainClass": "algs13.XFixedCapacityStack",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XFixedCapacityStackOfStrings",
-            "request": "launch",
-            "mainClass": "algs13.XFixedCapacityStackOfStrings",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XFixedCapacityStackOfStringsWithStaticMember",
-            "request": "launch",
-            "mainClass": "algs13.XFixedCapacityStackOfStringsWithStaticMember",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XGrid",
-            "request": "launch",
-            "mainClass": "algs13.XGrid",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XIteratorClient",
-            "request": "launch",
-            "mainClass": "algs13.XIteratorClient",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XMM1Queue",
-            "request": "launch",
-            "mainClass": "algs13.XMM1Queue",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XMultiwordSearch",
-            "request": "launch",
-            "mainClass": "algs13.XMultiwordSearch",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XResizingArrayBag",
-            "request": "launch",
-            "mainClass": "algs13.XResizingArrayBag",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XResizingArrayQueueofStrings",
-            "request": "launch",
-            "mainClass": "algs13.XResizingArrayQueueofStrings",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XResizingArraySlowStack",
-            "request": "launch",
-            "mainClass": "algs13.XResizingArraySlowStack",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XResizingArrayStackOfStrings",
-            "request": "launch",
-            "mainClass": "algs13.XResizingArrayStackOfStrings",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XReverseQueue",
-            "request": "launch",
-            "mainClass": "algs13.XReverseQueue",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XReverseStdIn",
-            "request": "launch",
-            "mainClass": "algs13.XReverseStdIn",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XServer",
-            "request": "launch",
-            "mainClass": "algs13.XServer",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XStackOfStrings",
-            "request": "launch",
-            "mainClass": "algs13.XStackOfStrings",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XStats",
-            "request": "launch",
-            "mainClass": "algs13.XStats",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XWhatGoesWrongInLoopsAndRecursion",
-            "request": "launch",
-            "mainClass": "algs13.XWhatGoesWrongInLoopsAndRecursion",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DoublingImproved",
-            "request": "launch",
-            "mainClass": "algs14.DoublingImproved",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DoublingRatio",
-            "request": "launch",
-            "mainClass": "algs14.DoublingRatio",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DoublingRatioLong",
-            "request": "launch",
-            "mainClass": "algs14.DoublingRatioLong",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Merge",
-            "request": "launch",
-            "mainClass": "algs14.Merge",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyDequeUsingStacks",
-            "request": "launch",
-            "mainClass": "algs14.MyDequeUsingStacks",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PlaygroundIndexing",
-            "request": "launch",
-            "mainClass": "algs14.PlaygroundIndexing",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PlaygroundSearch",
-            "request": "launch",
-            "mainClass": "algs14.PlaygroundSearch",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "ThreeSum",
-            "request": "launch",
-            "mainClass": "algs14.ThreeSum",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "ThreeSumFast",
-            "request": "launch",
-            "mainClass": "algs14.ThreeSumFast",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBitonicMax",
-            "request": "launch",
-            "mainClass": "algs14.XBitonicMax",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XCountingLoops",
-            "request": "launch",
-            "mainClass": "algs14.XCountingLoops",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XCountingRecursion",
-            "request": "launch",
-            "mainClass": "algs14.XCountingRecursion",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XCountingString",
-            "request": "launch",
-            "mainClass": "algs14.XCountingString",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XExponential",
-            "request": "launch",
-            "mainClass": "algs14.XExponential",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XFourSum",
-            "request": "launch",
-            "mainClass": "algs14.XFourSum",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XOneSum",
-            "request": "launch",
-            "mainClass": "algs14.XOneSum",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XPerformanceOfArrays",
-            "request": "launch",
-            "mainClass": "algs14.XPerformanceOfArrays",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XPerformanceOfStrings",
-            "request": "launch",
-            "mainClass": "algs14.XPerformanceOfStrings",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XPrintingLoops",
-            "request": "launch",
-            "mainClass": "algs14.XPrintingLoops",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTwoSumFast",
-            "request": "launch",
-            "mainClass": "algs14.XTwoSumFast",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "CompressionUF",
-            "request": "launch",
-            "mainClass": "algs15.CompressionUF",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "QuickFindUF",
-            "request": "launch",
-            "mainClass": "algs15.QuickFindUF",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "QuickUnionUF",
-            "request": "launch",
-            "mainClass": "algs15.QuickUnionUF",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "TestUF",
-            "request": "launch",
-            "mainClass": "algs15.TestUF",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "WeightedUF",
-            "request": "launch",
-            "mainClass": "algs15.WeightedUF",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XWeightedCompressionUF",
-            "request": "launch",
-            "mainClass": "algs15.XWeightedCompressionUF",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XWeightedHalvingUF",
-            "request": "launch",
-            "mainClass": "algs15.XWeightedHalvingUF",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "InteractivePercolationVisualizer",
-            "request": "launch",
-            "mainClass": "algs15.perc.InteractivePercolationVisualizer",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PercolationStats",
-            "request": "launch",
-            "mainClass": "algs15.perc.PercolationStats",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PercolationVisualizer",
-            "request": "launch",
-            "mainClass": "algs15.perc.PercolationVisualizer",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Bubble",
-            "request": "launch",
-            "mainClass": "algs21.Bubble",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Insertion",
-            "request": "launch",
-            "mainClass": "algs21.Insertion",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyDeckSort",
-            "request": "launch",
-            "mainClass": "algs21.MyDeckSort",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Selection",
-            "request": "launch",
-            "mainClass": "algs21.Selection",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Shell",
-            "request": "launch",
-            "mainClass": "algs21.Shell",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XAnimatedBubble",
-            "request": "launch",
-            "mainClass": "algs21.XAnimatedBubble",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XAnimatedInsertion",
-            "request": "launch",
-            "mainClass": "algs21.XAnimatedInsertion",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XAnimatedSelection",
-            "request": "launch",
-            "mainClass": "algs21.XAnimatedSelection",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBarsInsertion",
-            "request": "launch",
-            "mainClass": "algs21.XBarsInsertion",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBarsSelection",
-            "request": "launch",
-            "mainClass": "algs21.XBarsSelection",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBarsShell",
-            "request": "launch",
-            "mainClass": "algs21.XBarsShell",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBubble",
-            "request": "launch",
-            "mainClass": "algs21.XBubble",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XInsertionX",
-            "request": "launch",
-            "mainClass": "algs21.XInsertionX",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSort3",
-            "request": "launch",
-            "mainClass": "algs21.XSort3",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSort4",
-            "request": "launch",
-            "mainClass": "algs21.XSort4",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSort5",
-            "request": "launch",
-            "mainClass": "algs21.XSort5",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSort6",
-            "request": "launch",
-            "mainClass": "algs21.XSort6",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSortCards0",
-            "request": "launch",
-            "mainClass": "algs21.XSortCards0",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSortCards00",
-            "request": "launch",
-            "mainClass": "algs21.XSortCards00",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSortCards1",
-            "request": "launch",
-            "mainClass": "algs21.XSortCards1",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSortCards2",
-            "request": "launch",
-            "mainClass": "algs21.XSortCards2",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSortCards3",
-            "request": "launch",
-            "mainClass": "algs21.XSortCards3",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSortCompare",
-            "request": "launch",
-            "mainClass": "algs21.XSortCompare",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTraceBubble",
-            "request": "launch",
-            "mainClass": "algs21.XTraceBubble",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTraceInsertion",
-            "request": "launch",
-            "mainClass": "algs21.XTraceInsertion",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTraceSelection",
-            "request": "launch",
-            "mainClass": "algs21.XTraceSelection",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTraceShell",
-            "request": "launch",
-            "mainClass": "algs21.XTraceShell",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Merge(1)",
-            "request": "launch",
-            "mainClass": "algs22.Merge",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MergeBU",
-            "request": "launch",
-            "mainClass": "algs22.MergeBU",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyLinkedSort",
-            "request": "launch",
-            "mainClass": "algs22.MyLinkedSort",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XInversions",
-            "request": "launch",
-            "mainClass": "algs22.XInversions",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XMergeX",
-            "request": "launch",
-            "mainClass": "algs22.XMergeX",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSecureShuffle",
-            "request": "launch",
-            "mainClass": "algs22.XSecureShuffle",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTraceMerge",
-            "request": "launch",
-            "mainClass": "algs22.XTraceMerge",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTraceMergeBU",
-            "request": "launch",
-            "mainClass": "algs22.XTraceMergeBU",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Quick",
-            "request": "launch",
-            "mainClass": "algs23.Quick",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Quick3way",
-            "request": "launch",
-            "mainClass": "algs23.Quick3way",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBarsQuick3way",
-            "request": "launch",
-            "mainClass": "algs23.XBarsQuick3way",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XIntegerSort",
-            "request": "launch",
-            "mainClass": "algs23.XIntegerSort",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XQuickDualPivot",
-            "request": "launch",
-            "mainClass": "algs23.XQuickDualPivot",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XQuickKR",
-            "request": "launch",
-            "mainClass": "algs23.XQuickKR",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XQuickX",
-            "request": "launch",
-            "mainClass": "algs23.XQuickX",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTracePartition",
-            "request": "launch",
-            "mainClass": "algs23.XTracePartition",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTraceQuick",
-            "request": "launch",
-            "mainClass": "algs23.XTraceQuick",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTraceQuick3way",
-            "request": "launch",
-            "mainClass": "algs23.XTraceQuick3way",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Heap",
-            "request": "launch",
-            "mainClass": "algs24.Heap",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "IndexMaxPQ",
-            "request": "launch",
-            "mainClass": "algs24.IndexMaxPQ",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "IndexMinPQ",
-            "request": "launch",
-            "mainClass": "algs24.IndexMinPQ",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MaxPQ",
-            "request": "launch",
-            "mainClass": "algs24.MaxPQ",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MinPQ",
-            "request": "launch",
-            "mainClass": "algs24.MinPQ",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Multiway",
-            "request": "launch",
-            "mainClass": "algs24.Multiway",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyMinMaxPQ",
-            "request": "launch",
-            "mainClass": "algs24.MyMinMaxPQ",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyPtrHeap",
-            "request": "launch",
-            "mainClass": "algs24.MyPtrHeap",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "TestPQ",
-            "request": "launch",
-            "mainClass": "algs24.TestPQ",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "TopM",
-            "request": "launch",
-            "mainClass": "algs24.TopM",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XFixedMaxPQ",
-            "request": "launch",
-            "mainClass": "algs24.XFixedMaxPQ",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XFixedMinPQ",
-            "request": "launch",
-            "mainClass": "algs24.XFixedMinPQ",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XPerfectPower",
-            "request": "launch",
-            "mainClass": "algs24.XPerfectPower",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTaxicab",
-            "request": "launch",
-            "mainClass": "algs24.XTaxicab",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTraceHeap",
-            "request": "launch",
-            "mainClass": "algs24.XTraceHeap",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XGoofy",
-            "request": "launch",
-            "mainClass": "algs25.XGoofy",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XGrade",
-            "request": "launch",
-            "mainClass": "algs25.XGrade",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XJob",
-            "request": "launch",
-            "mainClass": "algs25.XJob",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XKendallTau",
-            "request": "launch",
-            "mainClass": "algs25.XKendallTau",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XRhymer",
-            "request": "launch",
-            "mainClass": "algs25.XRhymer",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XStudent",
-            "request": "launch",
-            "mainClass": "algs25.XStudent",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "ArrayST",
-            "request": "launch",
-            "mainClass": "algs31.ArrayST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BinarySearchST",
-            "request": "launch",
-            "mainClass": "algs31.BinarySearchST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BinaryTree",
-            "request": "launch",
-            "mainClass": "algs31.BinaryTree",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "FrequencyCounter",
-            "request": "launch",
-            "mainClass": "algs31.FrequencyCounter",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MySTTest",
-            "request": "launch",
-            "mainClass": "algs31.MySTTest",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "SequentialSearchST",
-            "request": "launch",
-            "mainClass": "algs31.SequentialSearchST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XCount",
-            "request": "launch",
-            "mainClass": "algs31.XCount",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XPerson",
-            "request": "launch",
-            "mainClass": "algs31.XPerson",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XPhoneNumber",
-            "request": "launch",
-            "mainClass": "algs31.XPhoneNumber",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BST",
-            "request": "launch",
-            "mainClass": "algs32.BST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyIntSET",
-            "request": "launch",
-            "mainClass": "algs32.MyIntSET",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyIntSET2",
-            "request": "launch",
-            "mainClass": "algs32.MyIntSET2",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBSTWithNonStaticNode",
-            "request": "launch",
-            "mainClass": "algs32.XBSTWithNonStaticNode",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBTree(1)",
-            "request": "launch",
-            "mainClass": "algs32.XBTree",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTree",
-            "request": "launch",
-            "mainClass": "algs32.XTree",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Generator",
-            "request": "launch",
-            "mainClass": "algs32.kdtree.Generator",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "KdTree",
-            "request": "launch",
-            "mainClass": "algs32.kdtree.KdTree",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "KdTreeVisualizer",
-            "request": "launch",
-            "mainClass": "algs32.kdtree.KdTreeVisualizer",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "NearestNeighborCorrectnessTest",
-            "request": "launch",
-            "mainClass": "algs32.kdtree.NearestNeighborCorrectnessTest",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "NearestNeighborPerformanceTest",
-            "request": "launch",
-            "mainClass": "algs32.kdtree.NearestNeighborPerformanceTest",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "NearestNeighborVisualizer",
-            "request": "launch",
-            "mainClass": "algs32.kdtree.NearestNeighborVisualizer",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PointSET",
-            "request": "launch",
-            "mainClass": "algs32.kdtree.PointSET",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "RangeSearchCorrectnessTest",
-            "request": "launch",
-            "mainClass": "algs32.kdtree.RangeSearchCorrectnessTest",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "RangeSearchPerformanceTest",
-            "request": "launch",
-            "mainClass": "algs32.kdtree.RangeSearchPerformanceTest",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "RangeSearchVisualizer",
-            "request": "launch",
-            "mainClass": "algs32.kdtree.RangeSearchVisualizer",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "RedBlackBST",
-            "request": "launch",
-            "mainClass": "algs33.RedBlackBST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XRandomizedBST",
-            "request": "launch",
-            "mainClass": "algs33.XRandomizedBST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XRandomizedQueue",
-            "request": "launch",
-            "mainClass": "algs33.XRandomizedQueue",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XRedBlackLiteBST",
-            "request": "launch",
-            "mainClass": "algs33.XRedBlackLiteBST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSplayBST",
-            "request": "launch",
-            "mainClass": "algs33.XSplayBST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTestRedBlackBST",
-            "request": "launch",
-            "mainClass": "algs33.XTestRedBlackBST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "LinearProbingHashST",
-            "request": "launch",
-            "mainClass": "algs34.LinearProbingHashST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyFB",
-            "request": "launch",
-            "mainClass": "algs34.MyFB",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyFBPerformanceTest",
-            "request": "launch",
-            "mainClass": "algs34.MyFBPerformanceTest",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "SeparateChainingHashST",
-            "request": "launch",
-            "mainClass": "algs34.SeparateChainingHashST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBadPoint",
-            "request": "launch",
-            "mainClass": "algs34.XBadPoint",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBuiltInHashcodes",
-            "request": "launch",
-            "mainClass": "algs34.XBuiltInHashcodes",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XGoodPoint",
-            "request": "launch",
-            "mainClass": "algs34.XGoodPoint",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XOneWay",
-            "request": "launch",
-            "mainClass": "algs34.XOneWay",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XPhoneNumber(1)",
-            "request": "launch",
-            "mainClass": "algs34.XPhoneNumber",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XPhoneNumberMutable",
-            "request": "launch",
-            "mainClass": "algs34.XPhoneNumberMutable",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XPhoneNumberOverload",
-            "request": "launch",
-            "mainClass": "algs34.XPhoneNumberOverload",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XPhoneNumberPerformanceTest",
-            "request": "launch",
-            "mainClass": "algs34.XPhoneNumberPerformanceTest",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XStringHashcodes",
-            "request": "launch",
-            "mainClass": "algs34.XStringHashcodes",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XStudent(1)",
-            "request": "launch",
-            "mainClass": "algs34.XStudent",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BlackFilter",
-            "request": "launch",
-            "mainClass": "algs35.BlackFilter",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DeDup",
-            "request": "launch",
-            "mainClass": "algs35.DeDup",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "FileIndex",
-            "request": "launch",
-            "mainClass": "algs35.FileIndex",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "LookupCSV",
-            "request": "launch",
-            "mainClass": "algs35.LookupCSV",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "LookupIndex",
-            "request": "launch",
-            "mainClass": "algs35.LookupIndex",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "SET",
-            "request": "launch",
-            "mainClass": "algs35.SET",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "ST",
-            "request": "launch",
-            "mainClass": "algs35.ST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "SparseVector",
-            "request": "launch",
-            "mainClass": "algs35.SparseVector",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "WhiteFilter",
-            "request": "launch",
-            "mainClass": "algs35.WhiteFilter",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XConcordance",
-            "request": "launch",
-            "mainClass": "algs35.XConcordance",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XFrequencyTable",
-            "request": "launch",
-            "mainClass": "algs35.XFrequencyTable",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XIndexSET",
-            "request": "launch",
-            "mainClass": "algs35.XIndexSET",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XIndirectPQ",
-            "request": "launch",
-            "mainClass": "algs35.XIndirectPQ",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XInterpreter",
-            "request": "launch",
-            "mainClass": "algs35.XInterpreter",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XMovieIndex",
-            "request": "launch",
-            "mainClass": "algs35.XMovieIndex",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSparseMatrix",
-            "request": "launch",
-            "mainClass": "algs35.XSparseMatrix",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Bipartite",
-            "request": "launch",
-            "mainClass": "algs41.Bipartite",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BreadthFirstPaths",
-            "request": "launch",
-            "mainClass": "algs41.BreadthFirstPaths",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "CC",
-            "request": "launch",
-            "mainClass": "algs41.CC",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Cycle",
-            "request": "launch",
-            "mainClass": "algs41.Cycle",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DegreesOfSeparation",
-            "request": "launch",
-            "mainClass": "algs41.DegreesOfSeparation",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DepthFirstPaths",
-            "request": "launch",
-            "mainClass": "algs41.DepthFirstPaths",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DepthFirstSearch",
-            "request": "launch",
-            "mainClass": "algs41.DepthFirstSearch",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "EulerianCycle",
-            "request": "launch",
-            "mainClass": "algs41.EulerianCycle",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "EulerianPath",
-            "request": "launch",
-            "mainClass": "algs41.EulerianPath",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Graph",
-            "request": "launch",
-            "mainClass": "algs41.Graph",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "GraphGenerator",
-            "request": "launch",
-            "mainClass": "algs41.GraphGenerator",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyGraphProperties",
-            "request": "launch",
-            "mainClass": "algs41.MyGraphProperties",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "SymbolGraph",
-            "request": "launch",
-            "mainClass": "algs41.SymbolGraph",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XAdjMatrixGraph",
-            "request": "launch",
-            "mainClass": "algs41.XAdjMatrixGraph",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBiconnected",
-            "request": "launch",
-            "mainClass": "algs41.XBiconnected",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XGraphClient",
-            "request": "launch",
-            "mainClass": "algs41.XGraphClient",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XMaze",
-            "request": "launch",
-            "mainClass": "algs41.XMaze",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XWordLadder",
-            "request": "launch",
-            "mainClass": "algs41.XWordLadder",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BreadthFirstDirectedPaths",
-            "request": "launch",
-            "mainClass": "algs42.BreadthFirstDirectedPaths",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DepthFirstDirectedPaths",
-            "request": "launch",
-            "mainClass": "algs42.DepthFirstDirectedPaths",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DepthFirstOrder",
-            "request": "launch",
-            "mainClass": "algs42.DepthFirstOrder",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Digraph",
-            "request": "launch",
-            "mainClass": "algs42.Digraph",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DigraphGenerator",
-            "request": "launch",
-            "mainClass": "algs42.DigraphGenerator",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DirectedCycle",
-            "request": "launch",
-            "mainClass": "algs42.DirectedCycle",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DirectedDFS",
-            "request": "launch",
-            "mainClass": "algs42.DirectedDFS",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DirectedEulerianCycle",
-            "request": "launch",
-            "mainClass": "algs42.DirectedEulerianCycle",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DirectedEulerianPath",
-            "request": "launch",
-            "mainClass": "algs42.DirectedEulerianPath",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "KosarajuSharirSCC",
-            "request": "launch",
-            "mainClass": "algs42.KosarajuSharirSCC",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MyGarbageCollector",
-            "request": "launch",
-            "mainClass": "algs42.MyGarbageCollector",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "SymbolDigraph",
-            "request": "launch",
-            "mainClass": "algs42.SymbolDigraph",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Topological",
-            "request": "launch",
-            "mainClass": "algs42.Topological",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "TransitiveClosure",
-            "request": "launch",
-            "mainClass": "algs42.TransitiveClosure",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XAdjMatrixDigraph",
-            "request": "launch",
-            "mainClass": "algs42.XAdjMatrixDigraph",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBruteSCC",
-            "request": "launch",
-            "mainClass": "algs42.XBruteSCC",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XGabowSCC",
-            "request": "launch",
-            "mainClass": "algs42.XGabowSCC",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XKosarajuSharirReverseSCC",
-            "request": "launch",
-            "mainClass": "algs42.XKosarajuSharirReverseSCC",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XShortestDirectedCycle",
-            "request": "launch",
-            "mainClass": "algs42.XShortestDirectedCycle",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTarjanSCC",
-            "request": "launch",
-            "mainClass": "algs42.XTarjanSCC",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTopologicalQueue",
-            "request": "launch",
-            "mainClass": "algs42.XTopologicalQueue",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XWarshallTC",
-            "request": "launch",
-            "mainClass": "algs42.XWarshallTC",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XWebCrawler",
-            "request": "launch",
-            "mainClass": "algs42.XWebCrawler",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XWebCrawlerDFS",
-            "request": "launch",
-            "mainClass": "algs42.XWebCrawlerDFS",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BoruvkaMST",
-            "request": "launch",
-            "mainClass": "algs43.BoruvkaMST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Edge",
-            "request": "launch",
-            "mainClass": "algs43.Edge",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "EdgeWeightedGraph",
-            "request": "launch",
-            "mainClass": "algs43.EdgeWeightedGraph",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "KruskalMST",
-            "request": "launch",
-            "mainClass": "algs43.KruskalMST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "LazyPrimMST",
-            "request": "launch",
-            "mainClass": "algs43.LazyPrimMST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PrimMST",
-            "request": "launch",
-            "mainClass": "algs43.PrimMST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "AcyclicLP",
-            "request": "launch",
-            "mainClass": "algs44.AcyclicLP",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "AcyclicSP",
-            "request": "launch",
-            "mainClass": "algs44.AcyclicSP",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "AdjMatrixEdgeWeightedDigraph",
-            "request": "launch",
-            "mainClass": "algs44.AdjMatrixEdgeWeightedDigraph",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Arbitrage",
-            "request": "launch",
-            "mainClass": "algs44.Arbitrage",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "AssignmentProblem",
-            "request": "launch",
-            "mainClass": "algs44.AssignmentProblem",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BellmanFordSP",
-            "request": "launch",
-            "mainClass": "algs44.BellmanFordSP",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "CPM",
-            "request": "launch",
-            "mainClass": "algs44.CPM",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DijkstraSP",
-            "request": "launch",
-            "mainClass": "algs44.DijkstraSP",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "DirectedEdge",
-            "request": "launch",
-            "mainClass": "algs44.DirectedEdge",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "EdgeWeightedDigraph",
-            "request": "launch",
-            "mainClass": "algs44.EdgeWeightedDigraph",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "EdgeWeightedDirectedCycle",
-            "request": "launch",
-            "mainClass": "algs44.EdgeWeightedDirectedCycle",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "FloydWarshall",
-            "request": "launch",
-            "mainClass": "algs44.FloydWarshall",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XAdjMatrixEdgeWeightedDigraph",
-            "request": "launch",
-            "mainClass": "algs44.XAdjMatrixEdgeWeightedDigraph",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XAssignmentProblemDense",
-            "request": "launch",
-            "mainClass": "algs44.XAssignmentProblemDense",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XFloydWarshall",
-            "request": "launch",
-            "mainClass": "algs44.XFloydWarshall",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Alphabet",
-            "request": "launch",
-            "mainClass": "algs51.Alphabet",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Count",
-            "request": "launch",
-            "mainClass": "algs51.Count",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "LSD",
-            "request": "launch",
-            "mainClass": "algs51.LSD",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "MSD",
-            "request": "launch",
-            "mainClass": "algs51.MSD",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Quick3string",
-            "request": "launch",
-            "mainClass": "algs51.Quick3string",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XLSDInt",
-            "request": "launch",
-            "mainClass": "algs51.XLSDInt",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XLSDLong",
-            "request": "launch",
-            "mainClass": "algs51.XLSDLong",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSqueeze",
-            "request": "launch",
-            "mainClass": "algs51.XSqueeze",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSubsequence",
-            "request": "launch",
-            "mainClass": "algs51.XSubsequence",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "TST",
-            "request": "launch",
-            "mainClass": "algs52.TST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "TrieST",
-            "request": "launch",
-            "mainClass": "algs52.TrieST",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSpellChecker",
-            "request": "launch",
-            "mainClass": "algs52.XSpellChecker",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTrieSTWithCasts",
-            "request": "launch",
-            "mainClass": "algs52.XTrieSTWithCasts",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XTrieTimer",
-            "request": "launch",
-            "mainClass": "algs52.XTrieTimer",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BoyerMoore",
-            "request": "launch",
-            "mainClass": "algs53.BoyerMoore",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "KMP",
-            "request": "launch",
-            "mainClass": "algs53.KMP",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "RabinKarp",
-            "request": "launch",
-            "mainClass": "algs53.RabinKarp",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBrute",
-            "request": "launch",
-            "mainClass": "algs53.XBrute",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XKMPplus",
-            "request": "launch",
-            "mainClass": "algs53.XKMPplus",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XManacher",
-            "request": "launch",
-            "mainClass": "algs53.XManacher",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XSystemSearch",
-            "request": "launch",
-            "mainClass": "algs53.XSystemSearch",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "GREP",
-            "request": "launch",
-            "mainClass": "algs54.GREP",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "NFA",
-            "request": "launch",
-            "mainClass": "algs54.NFA",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XValidate",
-            "request": "launch",
-            "mainClass": "algs54.XValidate",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BinaryDump",
-            "request": "launch",
-            "mainClass": "algs55.BinaryDump",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Genome",
-            "request": "launch",
-            "mainClass": "algs55.Genome",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "HexDump",
-            "request": "launch",
-            "mainClass": "algs55.HexDump",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Huffman",
-            "request": "launch",
-            "mainClass": "algs55.Huffman",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "LZW",
-            "request": "launch",
-            "mainClass": "algs55.LZW",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "PictureDump",
-            "request": "launch",
-            "mainClass": "algs55.PictureDump",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "RunLength",
-            "request": "launch",
-            "mainClass": "algs55.RunLength",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Test",
-            "request": "launch",
-            "mainClass": "algs55.Test",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "CollisionSystem",
-            "request": "launch",
-            "mainClass": "algs61.CollisionSystem",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BTree",
-            "request": "launch",
-            "mainClass": "algs62.BTree",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XBTreeWithCasts",
-            "request": "launch",
-            "mainClass": "algs62.XBTreeWithCasts",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "KWIK",
-            "request": "launch",
-            "mainClass": "algs63.KWIK",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "LRS",
-            "request": "launch",
-            "mainClass": "algs63.LRS",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "SuffixArray",
-            "request": "launch",
-            "mainClass": "algs63.SuffixArray",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XLCS",
-            "request": "launch",
-            "mainClass": "algs63.XLCS",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XManber",
-            "request": "launch",
-            "mainClass": "algs63.XManber",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BipartiteMatching",
-            "request": "launch",
-            "mainClass": "algs64.BipartiteMatching",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "FlowEdge",
-            "request": "launch",
-            "mainClass": "algs64.FlowEdge",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "FlowNetwork",
-            "request": "launch",
-            "mainClass": "algs64.FlowNetwork",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "FordFulkerson",
-            "request": "launch",
-            "mainClass": "algs64.FordFulkerson",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "XHungarian",
-            "request": "launch",
-            "mainClass": "algs64.XHungarian",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "hw1.Main",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "WordFrequencyAnalyzerClient",
-            "request": "launch",
-            "mainClass": "hw3a.WordFrequencyAnalyzerClient",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BinaryIn",
-            "request": "launch",
-            "mainClass": "stdlib.BinaryIn",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "BinaryOut",
-            "request": "launch",
-            "mainClass": "stdlib.BinaryOut",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "In",
-            "request": "launch",
-            "mainClass": "stdlib.In",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Out",
-            "request": "launch",
-            "mainClass": "stdlib.Out",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Picture",
-            "request": "launch",
-            "mainClass": "stdlib.Picture",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "StdAudio",
-            "request": "launch",
-            "mainClass": "stdlib.StdAudio",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "StdDraw",
-            "request": "launch",
-            "mainClass": "stdlib.StdDraw",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "StdIn",
-            "request": "launch",
-            "mainClass": "stdlib.StdIn",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "StdOut",
-            "request": "launch",
-            "mainClass": "stdlib.StdOut",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "StdRandom",
-            "request": "launch",
-            "mainClass": "stdlib.StdRandom",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "StdStats",
-            "request": "launch",
-            "mainClass": "stdlib.StdStats",
-            "projectName": "ds2_a895e334"
-        },
-        {
-            "type": "java",
-            "name": "Trace",
-            "request": "launch",
-            "mainClass": "stdlib.Trace",
-            "projectName": "ds2_a895e334"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "KnightTourMT",
+      "request": "launch",
+      "mainClass": "hw6.KnightTourMT",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Average",
+      "request": "launch",
+      "mainClass": "algs11.Average",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "algs11.BinarySearch",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Cat",
+      "request": "launch",
+      "mainClass": "algs11.Cat",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "algs11.Hello",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Immut",
+      "request": "launch",
+      "mainClass": "algs11.Immut",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "L1",
+      "request": "launch",
+      "mainClass": "algs11.L1",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Lecture1",
+      "request": "launch",
+      "mainClass": "algs11.Lecture1",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyArrayFunctions",
+      "request": "launch",
+      "mainClass": "algs11.MyArrayFunctions",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyBinarySearchRemoveDuplicates",
+      "request": "launch",
+      "mainClass": "algs11.MyBinarySearchRemoveDuplicates",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyFibonacci",
+      "request": "launch",
+      "mainClass": "algs11.MyFibonacci",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyFirstHomeworkFor300",
+      "request": "launch",
+      "mainClass": "algs11.MyFirstHomeworkFor300",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyFirstHomeworkFor300PartTwo",
+      "request": "launch",
+      "mainClass": "algs11.MyFirstHomeworkFor300PartTwo",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyFirstHomeworkFor402",
+      "request": "launch",
+      "mainClass": "algs11.MyFirstHomeworkFor402",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MySecondHomework",
+      "request": "launch",
+      "mainClass": "algs11.MySecondHomework",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyShuffleTest",
+      "request": "launch",
+      "mainClass": "algs11.MyShuffleTest",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Playground",
+      "request": "launch",
+      "mainClass": "algs11.Playground",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PlaygroundContainsSorted",
+      "request": "launch",
+      "mainClass": "algs11.PlaygroundContainsSorted",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PlaygroundContainsUnsorted",
+      "request": "launch",
+      "mainClass": "algs11.PlaygroundContainsUnsorted",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PlaygroundLongestSequenceOf5s",
+      "request": "launch",
+      "mainClass": "algs11.PlaygroundLongestSequenceOf5s",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PlaygroundMax",
+      "request": "launch",
+      "mainClass": "algs11.PlaygroundMax",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PlaygroundMerge",
+      "request": "launch",
+      "mainClass": "algs11.PlaygroundMerge",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PlaygroundPerformance",
+      "request": "launch",
+      "mainClass": "algs11.PlaygroundPerformance",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PlaygroundSumUntil",
+      "request": "launch",
+      "mainClass": "algs11.PlaygroundSumUntil",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Point2",
+      "request": "launch",
+      "mainClass": "algs11.Point2",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "RandomSeq",
+      "request": "launch",
+      "mainClass": "algs11.RandomSeq",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Shuffle",
+      "request": "launch",
+      "mainClass": "algs11.Shuffle",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Tree",
+      "request": "launch",
+      "mainClass": "algs11.Tree",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XArrayFunctions",
+      "request": "launch",
+      "mainClass": "algs11.XArrayFunctions",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XAutoboxing",
+      "request": "launch",
+      "mainClass": "algs11.XAutoboxing",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XAutoboxingValueOf",
+      "request": "launch",
+      "mainClass": "algs11.XAutoboxingValueOf",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBinomial",
+      "request": "launch",
+      "mainClass": "algs11.XBinomial",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBouncingBall",
+      "request": "launch",
+      "mainClass": "algs11.XBouncingBall",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XDrawArray",
+      "request": "launch",
+      "mainClass": "algs11.XDrawArray",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XDrawArraySorted",
+      "request": "launch",
+      "mainClass": "algs11.XDrawArraySorted",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XDrawFunctions",
+      "request": "launch",
+      "mainClass": "algs11.XDrawFunctions",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XDrawRightTriangle",
+      "request": "launch",
+      "mainClass": "algs11.XDrawRightTriangle",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XEuclid",
+      "request": "launch",
+      "mainClass": "algs11.XEuclid",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XRuler",
+      "request": "launch",
+      "mainClass": "algs11.XRuler",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSwap",
+      "request": "launch",
+      "mainClass": "algs11.XSwap",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XWget",
+      "request": "launch",
+      "mainClass": "algs11.XWget",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "lec1",
+      "request": "launch",
+      "mainClass": "algs11.lec1",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "temp",
+      "request": "launch",
+      "mainClass": "algs11.temp",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Complex",
+      "request": "launch",
+      "mainClass": "algs12.Complex",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Counter",
+      "request": "launch",
+      "mainClass": "algs12.Counter",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "CounterClient",
+      "request": "launch",
+      "mainClass": "algs12.CounterClient",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Date",
+      "request": "launch",
+      "mainClass": "algs12.Date",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "FractionClient",
+      "request": "launch",
+      "mainClass": "algs12.FractionClient",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Hello(1)",
+      "request": "launch",
+      "mainClass": "algs12.Hello",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Interval1D",
+      "request": "launch",
+      "mainClass": "algs12.Interval1D",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Interval2D",
+      "request": "launch",
+      "mainClass": "algs12.Interval2D",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyRecursiveRectangles",
+      "request": "launch",
+      "mainClass": "algs12.MyRecursiveRectangles",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Point2D",
+      "request": "launch",
+      "mainClass": "algs12.Point2D",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Transaction",
+      "request": "launch",
+      "mainClass": "algs12.Transaction",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Vector",
+      "request": "launch",
+      "mainClass": "algs12.Vector",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Whitelist",
+      "request": "launch",
+      "mainClass": "algs12.Whitelist",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XAccumulator",
+      "request": "launch",
+      "mainClass": "algs12.XAccumulator",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XArrayStats",
+      "request": "launch",
+      "mainClass": "algs12.XArrayStats",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XArrayStatsStatic",
+      "request": "launch",
+      "mainClass": "algs12.XArrayStatsStatic",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XCard",
+      "request": "launch",
+      "mainClass": "algs12.XCard",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XCardSimple",
+      "request": "launch",
+      "mainClass": "algs12.XCardSimple",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XFields",
+      "request": "launch",
+      "mainClass": "algs12.XFields",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XFlips",
+      "request": "launch",
+      "mainClass": "algs12.XFlips",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XFlipsMax",
+      "request": "launch",
+      "mainClass": "algs12.XFlipsMax",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XMutableString",
+      "request": "launch",
+      "mainClass": "algs12.XMutableString",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XRolls",
+      "request": "launch",
+      "mainClass": "algs12.XRolls",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XStrings",
+      "request": "launch",
+      "mainClass": "algs12.XStrings",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XVisualAccumulator",
+      "request": "launch",
+      "mainClass": "algs12.XVisualAccumulator",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Bag",
+      "request": "launch",
+      "mainClass": "algs13.Bag",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList",
+      "request": "launch",
+      "mainClass": "algs13.LinkedList",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyDeque",
+      "request": "launch",
+      "mainClass": "algs13.MyDeque",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyLinked0",
+      "request": "launch",
+      "mainClass": "algs13.MyLinked0",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyLinked1",
+      "request": "launch",
+      "mainClass": "algs13.MyLinked1",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyLinked2",
+      "request": "launch",
+      "mainClass": "algs13.MyLinked2",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyLinked2GenericTests",
+      "request": "launch",
+      "mainClass": "algs13.MyLinked2GenericTests",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyLinked3",
+      "request": "launch",
+      "mainClass": "algs13.MyLinked3",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyQueueCircular",
+      "request": "launch",
+      "mainClass": "algs13.MyQueueCircular",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyRandomQueue",
+      "request": "launch",
+      "mainClass": "algs13.MyRandomQueue",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Playground(1)",
+      "request": "launch",
+      "mainClass": "algs13.Playground",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PlaygroundA",
+      "request": "launch",
+      "mainClass": "algs13.PlaygroundA",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PlaygroundInsert",
+      "request": "launch",
+      "mainClass": "algs13.PlaygroundInsert",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PlaygroundNumUnique",
+      "request": "launch",
+      "mainClass": "algs13.PlaygroundNumUnique",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PlaygroundWithNonStaticNode",
+      "request": "launch",
+      "mainClass": "algs13.PlaygroundWithNonStaticNode",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Queue",
+      "request": "launch",
+      "mainClass": "algs13.Queue",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "ResizingArray",
+      "request": "launch",
+      "mainClass": "algs13.ResizingArray",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "ResizingArrayBag",
+      "request": "launch",
+      "mainClass": "algs13.ResizingArrayBag",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "ResizingArrayQueue",
+      "request": "launch",
+      "mainClass": "algs13.ResizingArrayQueue",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "ResizingArrayStack",
+      "request": "launch",
+      "mainClass": "algs13.ResizingArrayStack",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Stack",
+      "request": "launch",
+      "mainClass": "algs13.Stack",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "StackWithNonStaticNode",
+      "request": "launch",
+      "mainClass": "algs13.StackWithNonStaticNode",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBTree",
+      "request": "launch",
+      "mainClass": "algs13.XBTree",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XClientQueue",
+      "request": "launch",
+      "mainClass": "algs13.XClientQueue",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XDirectory",
+      "request": "launch",
+      "mainClass": "algs13.XDirectory",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XEvaluate",
+      "request": "launch",
+      "mainClass": "algs13.XEvaluate",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XEvaluateDeluxe",
+      "request": "launch",
+      "mainClass": "algs13.XEvaluateDeluxe",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XFixedCapacityIterableStack",
+      "request": "launch",
+      "mainClass": "algs13.XFixedCapacityIterableStack",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XFixedCapacityStack",
+      "request": "launch",
+      "mainClass": "algs13.XFixedCapacityStack",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XFixedCapacityStackOfStrings",
+      "request": "launch",
+      "mainClass": "algs13.XFixedCapacityStackOfStrings",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XFixedCapacityStackOfStringsWithStaticMember",
+      "request": "launch",
+      "mainClass": "algs13.XFixedCapacityStackOfStringsWithStaticMember",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XGrid",
+      "request": "launch",
+      "mainClass": "algs13.XGrid",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XIteratorClient",
+      "request": "launch",
+      "mainClass": "algs13.XIteratorClient",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XMM1Queue",
+      "request": "launch",
+      "mainClass": "algs13.XMM1Queue",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XMultiwordSearch",
+      "request": "launch",
+      "mainClass": "algs13.XMultiwordSearch",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XResizingArrayBag",
+      "request": "launch",
+      "mainClass": "algs13.XResizingArrayBag",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XResizingArrayQueueofStrings",
+      "request": "launch",
+      "mainClass": "algs13.XResizingArrayQueueofStrings",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XResizingArraySlowStack",
+      "request": "launch",
+      "mainClass": "algs13.XResizingArraySlowStack",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XResizingArrayStackOfStrings",
+      "request": "launch",
+      "mainClass": "algs13.XResizingArrayStackOfStrings",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XReverseQueue",
+      "request": "launch",
+      "mainClass": "algs13.XReverseQueue",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XReverseStdIn",
+      "request": "launch",
+      "mainClass": "algs13.XReverseStdIn",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XServer",
+      "request": "launch",
+      "mainClass": "algs13.XServer",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XStackOfStrings",
+      "request": "launch",
+      "mainClass": "algs13.XStackOfStrings",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XStats",
+      "request": "launch",
+      "mainClass": "algs13.XStats",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XWhatGoesWrongInLoopsAndRecursion",
+      "request": "launch",
+      "mainClass": "algs13.XWhatGoesWrongInLoopsAndRecursion",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DoublingImproved",
+      "request": "launch",
+      "mainClass": "algs14.DoublingImproved",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DoublingRatio",
+      "request": "launch",
+      "mainClass": "algs14.DoublingRatio",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DoublingRatioLong",
+      "request": "launch",
+      "mainClass": "algs14.DoublingRatioLong",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Merge",
+      "request": "launch",
+      "mainClass": "algs14.Merge",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyDequeUsingStacks",
+      "request": "launch",
+      "mainClass": "algs14.MyDequeUsingStacks",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PlaygroundIndexing",
+      "request": "launch",
+      "mainClass": "algs14.PlaygroundIndexing",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PlaygroundSearch",
+      "request": "launch",
+      "mainClass": "algs14.PlaygroundSearch",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "ThreeSum",
+      "request": "launch",
+      "mainClass": "algs14.ThreeSum",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "ThreeSumFast",
+      "request": "launch",
+      "mainClass": "algs14.ThreeSumFast",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBitonicMax",
+      "request": "launch",
+      "mainClass": "algs14.XBitonicMax",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XCountingLoops",
+      "request": "launch",
+      "mainClass": "algs14.XCountingLoops",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XCountingRecursion",
+      "request": "launch",
+      "mainClass": "algs14.XCountingRecursion",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XCountingString",
+      "request": "launch",
+      "mainClass": "algs14.XCountingString",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XExponential",
+      "request": "launch",
+      "mainClass": "algs14.XExponential",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XFourSum",
+      "request": "launch",
+      "mainClass": "algs14.XFourSum",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XOneSum",
+      "request": "launch",
+      "mainClass": "algs14.XOneSum",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XPerformanceOfArrays",
+      "request": "launch",
+      "mainClass": "algs14.XPerformanceOfArrays",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XPerformanceOfStrings",
+      "request": "launch",
+      "mainClass": "algs14.XPerformanceOfStrings",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XPrintingLoops",
+      "request": "launch",
+      "mainClass": "algs14.XPrintingLoops",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTwoSumFast",
+      "request": "launch",
+      "mainClass": "algs14.XTwoSumFast",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "CompressionUF",
+      "request": "launch",
+      "mainClass": "algs15.CompressionUF",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "QuickFindUF",
+      "request": "launch",
+      "mainClass": "algs15.QuickFindUF",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "QuickUnionUF",
+      "request": "launch",
+      "mainClass": "algs15.QuickUnionUF",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "TestUF",
+      "request": "launch",
+      "mainClass": "algs15.TestUF",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "WeightedUF",
+      "request": "launch",
+      "mainClass": "algs15.WeightedUF",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XWeightedCompressionUF",
+      "request": "launch",
+      "mainClass": "algs15.XWeightedCompressionUF",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XWeightedHalvingUF",
+      "request": "launch",
+      "mainClass": "algs15.XWeightedHalvingUF",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "InteractivePercolationVisualizer",
+      "request": "launch",
+      "mainClass": "algs15.perc.InteractivePercolationVisualizer",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PercolationStats",
+      "request": "launch",
+      "mainClass": "algs15.perc.PercolationStats",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PercolationVisualizer",
+      "request": "launch",
+      "mainClass": "algs15.perc.PercolationVisualizer",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Bubble",
+      "request": "launch",
+      "mainClass": "algs21.Bubble",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Insertion",
+      "request": "launch",
+      "mainClass": "algs21.Insertion",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyDeckSort",
+      "request": "launch",
+      "mainClass": "algs21.MyDeckSort",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Selection",
+      "request": "launch",
+      "mainClass": "algs21.Selection",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Shell",
+      "request": "launch",
+      "mainClass": "algs21.Shell",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XAnimatedBubble",
+      "request": "launch",
+      "mainClass": "algs21.XAnimatedBubble",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XAnimatedInsertion",
+      "request": "launch",
+      "mainClass": "algs21.XAnimatedInsertion",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XAnimatedSelection",
+      "request": "launch",
+      "mainClass": "algs21.XAnimatedSelection",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBarsInsertion",
+      "request": "launch",
+      "mainClass": "algs21.XBarsInsertion",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBarsSelection",
+      "request": "launch",
+      "mainClass": "algs21.XBarsSelection",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBarsShell",
+      "request": "launch",
+      "mainClass": "algs21.XBarsShell",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBubble",
+      "request": "launch",
+      "mainClass": "algs21.XBubble",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XInsertionX",
+      "request": "launch",
+      "mainClass": "algs21.XInsertionX",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSort3",
+      "request": "launch",
+      "mainClass": "algs21.XSort3",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSort4",
+      "request": "launch",
+      "mainClass": "algs21.XSort4",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSort5",
+      "request": "launch",
+      "mainClass": "algs21.XSort5",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSort6",
+      "request": "launch",
+      "mainClass": "algs21.XSort6",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSortCards0",
+      "request": "launch",
+      "mainClass": "algs21.XSortCards0",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSortCards00",
+      "request": "launch",
+      "mainClass": "algs21.XSortCards00",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSortCards1",
+      "request": "launch",
+      "mainClass": "algs21.XSortCards1",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSortCards2",
+      "request": "launch",
+      "mainClass": "algs21.XSortCards2",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSortCards3",
+      "request": "launch",
+      "mainClass": "algs21.XSortCards3",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSortCompare",
+      "request": "launch",
+      "mainClass": "algs21.XSortCompare",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTraceBubble",
+      "request": "launch",
+      "mainClass": "algs21.XTraceBubble",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTraceInsertion",
+      "request": "launch",
+      "mainClass": "algs21.XTraceInsertion",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTraceSelection",
+      "request": "launch",
+      "mainClass": "algs21.XTraceSelection",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTraceShell",
+      "request": "launch",
+      "mainClass": "algs21.XTraceShell",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Merge(1)",
+      "request": "launch",
+      "mainClass": "algs22.Merge",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MergeBU",
+      "request": "launch",
+      "mainClass": "algs22.MergeBU",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyLinkedSort",
+      "request": "launch",
+      "mainClass": "algs22.MyLinkedSort",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XInversions",
+      "request": "launch",
+      "mainClass": "algs22.XInversions",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XMergeX",
+      "request": "launch",
+      "mainClass": "algs22.XMergeX",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSecureShuffle",
+      "request": "launch",
+      "mainClass": "algs22.XSecureShuffle",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTraceMerge",
+      "request": "launch",
+      "mainClass": "algs22.XTraceMerge",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTraceMergeBU",
+      "request": "launch",
+      "mainClass": "algs22.XTraceMergeBU",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Quick",
+      "request": "launch",
+      "mainClass": "algs23.Quick",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Quick3way",
+      "request": "launch",
+      "mainClass": "algs23.Quick3way",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBarsQuick3way",
+      "request": "launch",
+      "mainClass": "algs23.XBarsQuick3way",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XIntegerSort",
+      "request": "launch",
+      "mainClass": "algs23.XIntegerSort",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XQuickDualPivot",
+      "request": "launch",
+      "mainClass": "algs23.XQuickDualPivot",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XQuickKR",
+      "request": "launch",
+      "mainClass": "algs23.XQuickKR",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XQuickX",
+      "request": "launch",
+      "mainClass": "algs23.XQuickX",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTracePartition",
+      "request": "launch",
+      "mainClass": "algs23.XTracePartition",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTraceQuick",
+      "request": "launch",
+      "mainClass": "algs23.XTraceQuick",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTraceQuick3way",
+      "request": "launch",
+      "mainClass": "algs23.XTraceQuick3way",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Heap",
+      "request": "launch",
+      "mainClass": "algs24.Heap",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "IndexMaxPQ",
+      "request": "launch",
+      "mainClass": "algs24.IndexMaxPQ",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "IndexMinPQ",
+      "request": "launch",
+      "mainClass": "algs24.IndexMinPQ",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MaxPQ",
+      "request": "launch",
+      "mainClass": "algs24.MaxPQ",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MinPQ",
+      "request": "launch",
+      "mainClass": "algs24.MinPQ",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Multiway",
+      "request": "launch",
+      "mainClass": "algs24.Multiway",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyMinMaxPQ",
+      "request": "launch",
+      "mainClass": "algs24.MyMinMaxPQ",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyPtrHeap",
+      "request": "launch",
+      "mainClass": "algs24.MyPtrHeap",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "TestPQ",
+      "request": "launch",
+      "mainClass": "algs24.TestPQ",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "TopM",
+      "request": "launch",
+      "mainClass": "algs24.TopM",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XFixedMaxPQ",
+      "request": "launch",
+      "mainClass": "algs24.XFixedMaxPQ",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XFixedMinPQ",
+      "request": "launch",
+      "mainClass": "algs24.XFixedMinPQ",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XPerfectPower",
+      "request": "launch",
+      "mainClass": "algs24.XPerfectPower",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTaxicab",
+      "request": "launch",
+      "mainClass": "algs24.XTaxicab",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTraceHeap",
+      "request": "launch",
+      "mainClass": "algs24.XTraceHeap",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XGoofy",
+      "request": "launch",
+      "mainClass": "algs25.XGoofy",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XGrade",
+      "request": "launch",
+      "mainClass": "algs25.XGrade",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XJob",
+      "request": "launch",
+      "mainClass": "algs25.XJob",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XKendallTau",
+      "request": "launch",
+      "mainClass": "algs25.XKendallTau",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XRhymer",
+      "request": "launch",
+      "mainClass": "algs25.XRhymer",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XStudent",
+      "request": "launch",
+      "mainClass": "algs25.XStudent",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "ArrayST",
+      "request": "launch",
+      "mainClass": "algs31.ArrayST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearchST",
+      "request": "launch",
+      "mainClass": "algs31.BinarySearchST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BinaryTree",
+      "request": "launch",
+      "mainClass": "algs31.BinaryTree",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "FrequencyCounter",
+      "request": "launch",
+      "mainClass": "algs31.FrequencyCounter",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MySTTest",
+      "request": "launch",
+      "mainClass": "algs31.MySTTest",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "SequentialSearchST",
+      "request": "launch",
+      "mainClass": "algs31.SequentialSearchST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XCount",
+      "request": "launch",
+      "mainClass": "algs31.XCount",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XPerson",
+      "request": "launch",
+      "mainClass": "algs31.XPerson",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XPhoneNumber",
+      "request": "launch",
+      "mainClass": "algs31.XPhoneNumber",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BST",
+      "request": "launch",
+      "mainClass": "algs32.BST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyIntSET",
+      "request": "launch",
+      "mainClass": "algs32.MyIntSET",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyIntSET2",
+      "request": "launch",
+      "mainClass": "algs32.MyIntSET2",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBSTWithNonStaticNode",
+      "request": "launch",
+      "mainClass": "algs32.XBSTWithNonStaticNode",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBTree(1)",
+      "request": "launch",
+      "mainClass": "algs32.XBTree",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTree",
+      "request": "launch",
+      "mainClass": "algs32.XTree",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Generator",
+      "request": "launch",
+      "mainClass": "algs32.kdtree.Generator",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "KdTree",
+      "request": "launch",
+      "mainClass": "algs32.kdtree.KdTree",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "KdTreeVisualizer",
+      "request": "launch",
+      "mainClass": "algs32.kdtree.KdTreeVisualizer",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "NearestNeighborCorrectnessTest",
+      "request": "launch",
+      "mainClass": "algs32.kdtree.NearestNeighborCorrectnessTest",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "NearestNeighborPerformanceTest",
+      "request": "launch",
+      "mainClass": "algs32.kdtree.NearestNeighborPerformanceTest",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "NearestNeighborVisualizer",
+      "request": "launch",
+      "mainClass": "algs32.kdtree.NearestNeighborVisualizer",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PointSET",
+      "request": "launch",
+      "mainClass": "algs32.kdtree.PointSET",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "RangeSearchCorrectnessTest",
+      "request": "launch",
+      "mainClass": "algs32.kdtree.RangeSearchCorrectnessTest",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "RangeSearchPerformanceTest",
+      "request": "launch",
+      "mainClass": "algs32.kdtree.RangeSearchPerformanceTest",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "RangeSearchVisualizer",
+      "request": "launch",
+      "mainClass": "algs32.kdtree.RangeSearchVisualizer",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "RedBlackBST",
+      "request": "launch",
+      "mainClass": "algs33.RedBlackBST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XRandomizedBST",
+      "request": "launch",
+      "mainClass": "algs33.XRandomizedBST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XRandomizedQueue",
+      "request": "launch",
+      "mainClass": "algs33.XRandomizedQueue",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XRedBlackLiteBST",
+      "request": "launch",
+      "mainClass": "algs33.XRedBlackLiteBST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSplayBST",
+      "request": "launch",
+      "mainClass": "algs33.XSplayBST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTestRedBlackBST",
+      "request": "launch",
+      "mainClass": "algs33.XTestRedBlackBST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "LinearProbingHashST",
+      "request": "launch",
+      "mainClass": "algs34.LinearProbingHashST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyFB",
+      "request": "launch",
+      "mainClass": "algs34.MyFB",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyFBPerformanceTest",
+      "request": "launch",
+      "mainClass": "algs34.MyFBPerformanceTest",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "SeparateChainingHashST",
+      "request": "launch",
+      "mainClass": "algs34.SeparateChainingHashST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBadPoint",
+      "request": "launch",
+      "mainClass": "algs34.XBadPoint",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBuiltInHashcodes",
+      "request": "launch",
+      "mainClass": "algs34.XBuiltInHashcodes",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XGoodPoint",
+      "request": "launch",
+      "mainClass": "algs34.XGoodPoint",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XOneWay",
+      "request": "launch",
+      "mainClass": "algs34.XOneWay",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XPhoneNumber(1)",
+      "request": "launch",
+      "mainClass": "algs34.XPhoneNumber",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XPhoneNumberMutable",
+      "request": "launch",
+      "mainClass": "algs34.XPhoneNumberMutable",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XPhoneNumberOverload",
+      "request": "launch",
+      "mainClass": "algs34.XPhoneNumberOverload",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XPhoneNumberPerformanceTest",
+      "request": "launch",
+      "mainClass": "algs34.XPhoneNumberPerformanceTest",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XStringHashcodes",
+      "request": "launch",
+      "mainClass": "algs34.XStringHashcodes",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XStudent(1)",
+      "request": "launch",
+      "mainClass": "algs34.XStudent",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BlackFilter",
+      "request": "launch",
+      "mainClass": "algs35.BlackFilter",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DeDup",
+      "request": "launch",
+      "mainClass": "algs35.DeDup",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "FileIndex",
+      "request": "launch",
+      "mainClass": "algs35.FileIndex",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "LookupCSV",
+      "request": "launch",
+      "mainClass": "algs35.LookupCSV",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "LookupIndex",
+      "request": "launch",
+      "mainClass": "algs35.LookupIndex",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "SET",
+      "request": "launch",
+      "mainClass": "algs35.SET",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "ST",
+      "request": "launch",
+      "mainClass": "algs35.ST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "SparseVector",
+      "request": "launch",
+      "mainClass": "algs35.SparseVector",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "WhiteFilter",
+      "request": "launch",
+      "mainClass": "algs35.WhiteFilter",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XConcordance",
+      "request": "launch",
+      "mainClass": "algs35.XConcordance",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XFrequencyTable",
+      "request": "launch",
+      "mainClass": "algs35.XFrequencyTable",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XIndexSET",
+      "request": "launch",
+      "mainClass": "algs35.XIndexSET",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XIndirectPQ",
+      "request": "launch",
+      "mainClass": "algs35.XIndirectPQ",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XInterpreter",
+      "request": "launch",
+      "mainClass": "algs35.XInterpreter",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XMovieIndex",
+      "request": "launch",
+      "mainClass": "algs35.XMovieIndex",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSparseMatrix",
+      "request": "launch",
+      "mainClass": "algs35.XSparseMatrix",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Bipartite",
+      "request": "launch",
+      "mainClass": "algs41.Bipartite",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BreadthFirstPaths",
+      "request": "launch",
+      "mainClass": "algs41.BreadthFirstPaths",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "CC",
+      "request": "launch",
+      "mainClass": "algs41.CC",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Cycle",
+      "request": "launch",
+      "mainClass": "algs41.Cycle",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DegreesOfSeparation",
+      "request": "launch",
+      "mainClass": "algs41.DegreesOfSeparation",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DepthFirstPaths",
+      "request": "launch",
+      "mainClass": "algs41.DepthFirstPaths",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DepthFirstSearch",
+      "request": "launch",
+      "mainClass": "algs41.DepthFirstSearch",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "EulerianCycle",
+      "request": "launch",
+      "mainClass": "algs41.EulerianCycle",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "EulerianPath",
+      "request": "launch",
+      "mainClass": "algs41.EulerianPath",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Graph",
+      "request": "launch",
+      "mainClass": "algs41.Graph",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "GraphGenerator",
+      "request": "launch",
+      "mainClass": "algs41.GraphGenerator",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyGraphProperties",
+      "request": "launch",
+      "mainClass": "algs41.MyGraphProperties",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "SymbolGraph",
+      "request": "launch",
+      "mainClass": "algs41.SymbolGraph",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XAdjMatrixGraph",
+      "request": "launch",
+      "mainClass": "algs41.XAdjMatrixGraph",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBiconnected",
+      "request": "launch",
+      "mainClass": "algs41.XBiconnected",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XGraphClient",
+      "request": "launch",
+      "mainClass": "algs41.XGraphClient",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XMaze",
+      "request": "launch",
+      "mainClass": "algs41.XMaze",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XWordLadder",
+      "request": "launch",
+      "mainClass": "algs41.XWordLadder",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BreadthFirstDirectedPaths",
+      "request": "launch",
+      "mainClass": "algs42.BreadthFirstDirectedPaths",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DepthFirstDirectedPaths",
+      "request": "launch",
+      "mainClass": "algs42.DepthFirstDirectedPaths",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DepthFirstOrder",
+      "request": "launch",
+      "mainClass": "algs42.DepthFirstOrder",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Digraph",
+      "request": "launch",
+      "mainClass": "algs42.Digraph",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DigraphGenerator",
+      "request": "launch",
+      "mainClass": "algs42.DigraphGenerator",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DirectedCycle",
+      "request": "launch",
+      "mainClass": "algs42.DirectedCycle",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DirectedDFS",
+      "request": "launch",
+      "mainClass": "algs42.DirectedDFS",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DirectedEulerianCycle",
+      "request": "launch",
+      "mainClass": "algs42.DirectedEulerianCycle",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DirectedEulerianPath",
+      "request": "launch",
+      "mainClass": "algs42.DirectedEulerianPath",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "KosarajuSharirSCC",
+      "request": "launch",
+      "mainClass": "algs42.KosarajuSharirSCC",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MyGarbageCollector",
+      "request": "launch",
+      "mainClass": "algs42.MyGarbageCollector",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "SymbolDigraph",
+      "request": "launch",
+      "mainClass": "algs42.SymbolDigraph",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Topological",
+      "request": "launch",
+      "mainClass": "algs42.Topological",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "TransitiveClosure",
+      "request": "launch",
+      "mainClass": "algs42.TransitiveClosure",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XAdjMatrixDigraph",
+      "request": "launch",
+      "mainClass": "algs42.XAdjMatrixDigraph",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBruteSCC",
+      "request": "launch",
+      "mainClass": "algs42.XBruteSCC",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XGabowSCC",
+      "request": "launch",
+      "mainClass": "algs42.XGabowSCC",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XKosarajuSharirReverseSCC",
+      "request": "launch",
+      "mainClass": "algs42.XKosarajuSharirReverseSCC",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XShortestDirectedCycle",
+      "request": "launch",
+      "mainClass": "algs42.XShortestDirectedCycle",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTarjanSCC",
+      "request": "launch",
+      "mainClass": "algs42.XTarjanSCC",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTopologicalQueue",
+      "request": "launch",
+      "mainClass": "algs42.XTopologicalQueue",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XWarshallTC",
+      "request": "launch",
+      "mainClass": "algs42.XWarshallTC",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XWebCrawler",
+      "request": "launch",
+      "mainClass": "algs42.XWebCrawler",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XWebCrawlerDFS",
+      "request": "launch",
+      "mainClass": "algs42.XWebCrawlerDFS",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BoruvkaMST",
+      "request": "launch",
+      "mainClass": "algs43.BoruvkaMST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Edge",
+      "request": "launch",
+      "mainClass": "algs43.Edge",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "EdgeWeightedGraph",
+      "request": "launch",
+      "mainClass": "algs43.EdgeWeightedGraph",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "KruskalMST",
+      "request": "launch",
+      "mainClass": "algs43.KruskalMST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "LazyPrimMST",
+      "request": "launch",
+      "mainClass": "algs43.LazyPrimMST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PrimMST",
+      "request": "launch",
+      "mainClass": "algs43.PrimMST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "AcyclicLP",
+      "request": "launch",
+      "mainClass": "algs44.AcyclicLP",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "AcyclicSP",
+      "request": "launch",
+      "mainClass": "algs44.AcyclicSP",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "AdjMatrixEdgeWeightedDigraph",
+      "request": "launch",
+      "mainClass": "algs44.AdjMatrixEdgeWeightedDigraph",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Arbitrage",
+      "request": "launch",
+      "mainClass": "algs44.Arbitrage",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "AssignmentProblem",
+      "request": "launch",
+      "mainClass": "algs44.AssignmentProblem",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BellmanFordSP",
+      "request": "launch",
+      "mainClass": "algs44.BellmanFordSP",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "CPM",
+      "request": "launch",
+      "mainClass": "algs44.CPM",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DijkstraSP",
+      "request": "launch",
+      "mainClass": "algs44.DijkstraSP",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "DirectedEdge",
+      "request": "launch",
+      "mainClass": "algs44.DirectedEdge",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "EdgeWeightedDigraph",
+      "request": "launch",
+      "mainClass": "algs44.EdgeWeightedDigraph",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "EdgeWeightedDirectedCycle",
+      "request": "launch",
+      "mainClass": "algs44.EdgeWeightedDirectedCycle",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "FloydWarshall",
+      "request": "launch",
+      "mainClass": "algs44.FloydWarshall",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XAdjMatrixEdgeWeightedDigraph",
+      "request": "launch",
+      "mainClass": "algs44.XAdjMatrixEdgeWeightedDigraph",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XAssignmentProblemDense",
+      "request": "launch",
+      "mainClass": "algs44.XAssignmentProblemDense",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XFloydWarshall",
+      "request": "launch",
+      "mainClass": "algs44.XFloydWarshall",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Alphabet",
+      "request": "launch",
+      "mainClass": "algs51.Alphabet",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Count",
+      "request": "launch",
+      "mainClass": "algs51.Count",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "LSD",
+      "request": "launch",
+      "mainClass": "algs51.LSD",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "MSD",
+      "request": "launch",
+      "mainClass": "algs51.MSD",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Quick3string",
+      "request": "launch",
+      "mainClass": "algs51.Quick3string",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XLSDInt",
+      "request": "launch",
+      "mainClass": "algs51.XLSDInt",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XLSDLong",
+      "request": "launch",
+      "mainClass": "algs51.XLSDLong",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSqueeze",
+      "request": "launch",
+      "mainClass": "algs51.XSqueeze",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSubsequence",
+      "request": "launch",
+      "mainClass": "algs51.XSubsequence",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "TST",
+      "request": "launch",
+      "mainClass": "algs52.TST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "TrieST",
+      "request": "launch",
+      "mainClass": "algs52.TrieST",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSpellChecker",
+      "request": "launch",
+      "mainClass": "algs52.XSpellChecker",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTrieSTWithCasts",
+      "request": "launch",
+      "mainClass": "algs52.XTrieSTWithCasts",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XTrieTimer",
+      "request": "launch",
+      "mainClass": "algs52.XTrieTimer",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BoyerMoore",
+      "request": "launch",
+      "mainClass": "algs53.BoyerMoore",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "KMP",
+      "request": "launch",
+      "mainClass": "algs53.KMP",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "RabinKarp",
+      "request": "launch",
+      "mainClass": "algs53.RabinKarp",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBrute",
+      "request": "launch",
+      "mainClass": "algs53.XBrute",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XKMPplus",
+      "request": "launch",
+      "mainClass": "algs53.XKMPplus",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XManacher",
+      "request": "launch",
+      "mainClass": "algs53.XManacher",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XSystemSearch",
+      "request": "launch",
+      "mainClass": "algs53.XSystemSearch",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "GREP",
+      "request": "launch",
+      "mainClass": "algs54.GREP",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "NFA",
+      "request": "launch",
+      "mainClass": "algs54.NFA",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XValidate",
+      "request": "launch",
+      "mainClass": "algs54.XValidate",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BinaryDump",
+      "request": "launch",
+      "mainClass": "algs55.BinaryDump",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Genome",
+      "request": "launch",
+      "mainClass": "algs55.Genome",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "HexDump",
+      "request": "launch",
+      "mainClass": "algs55.HexDump",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Huffman",
+      "request": "launch",
+      "mainClass": "algs55.Huffman",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "LZW",
+      "request": "launch",
+      "mainClass": "algs55.LZW",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "PictureDump",
+      "request": "launch",
+      "mainClass": "algs55.PictureDump",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "RunLength",
+      "request": "launch",
+      "mainClass": "algs55.RunLength",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "algs55.Test",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "CollisionSystem",
+      "request": "launch",
+      "mainClass": "algs61.CollisionSystem",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BTree",
+      "request": "launch",
+      "mainClass": "algs62.BTree",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XBTreeWithCasts",
+      "request": "launch",
+      "mainClass": "algs62.XBTreeWithCasts",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "KWIK",
+      "request": "launch",
+      "mainClass": "algs63.KWIK",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "LRS",
+      "request": "launch",
+      "mainClass": "algs63.LRS",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "SuffixArray",
+      "request": "launch",
+      "mainClass": "algs63.SuffixArray",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XLCS",
+      "request": "launch",
+      "mainClass": "algs63.XLCS",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XManber",
+      "request": "launch",
+      "mainClass": "algs63.XManber",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BipartiteMatching",
+      "request": "launch",
+      "mainClass": "algs64.BipartiteMatching",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "FlowEdge",
+      "request": "launch",
+      "mainClass": "algs64.FlowEdge",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "FlowNetwork",
+      "request": "launch",
+      "mainClass": "algs64.FlowNetwork",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "FordFulkerson",
+      "request": "launch",
+      "mainClass": "algs64.FordFulkerson",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "XHungarian",
+      "request": "launch",
+      "mainClass": "algs64.XHungarian",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "hw1.Main",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "WordFrequencyAnalyzerClient",
+      "request": "launch",
+      "mainClass": "hw3a.WordFrequencyAnalyzerClient",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BinaryIn",
+      "request": "launch",
+      "mainClass": "stdlib.BinaryIn",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "BinaryOut",
+      "request": "launch",
+      "mainClass": "stdlib.BinaryOut",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "In",
+      "request": "launch",
+      "mainClass": "stdlib.In",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Out",
+      "request": "launch",
+      "mainClass": "stdlib.Out",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Picture",
+      "request": "launch",
+      "mainClass": "stdlib.Picture",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "StdAudio",
+      "request": "launch",
+      "mainClass": "stdlib.StdAudio",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "StdDraw",
+      "request": "launch",
+      "mainClass": "stdlib.StdDraw",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "StdIn",
+      "request": "launch",
+      "mainClass": "stdlib.StdIn",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "StdOut",
+      "request": "launch",
+      "mainClass": "stdlib.StdOut",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "StdRandom",
+      "request": "launch",
+      "mainClass": "stdlib.StdRandom",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "StdStats",
+      "request": "launch",
+      "mainClass": "stdlib.StdStats",
+      "projectName": "ds2_a895e334"
+    },
+    {
+      "type": "java",
+      "name": "Trace",
+      "request": "launch",
+      "mainClass": "stdlib.Trace",
+      "projectName": "ds2_a895e334"
+    }
+  ]
 }
