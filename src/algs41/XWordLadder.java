@@ -1,4 +1,5 @@
 package algs41;
+
 import stdlib.*;
 import algs35.XIndexSET;
 /* ***********************************************************************
@@ -71,25 +72,29 @@ public class XWordLadder {
 		assert a.length() == b.length();
 		int differ = 0;
 		for (int i = 0; i < a.length(); i++) {
-			if (a.charAt(i) != b.charAt(i)) differ++;
+			if (a.charAt(i) != b.charAt(i))
+				differ++;
 		}
 		return (differ == 1);
 	}
 
 	public static void main(String[] args) {
-		args = new String[] { "flirt", "break" }; StdIn.fromFile ("data/words5.txt");
-		//args = new String[] { "white", "house" }; StdIn.fromFile ("data/words5.txt");
-		//args = new String[] { "allow", "brown" }; StdIn.fromFile ("data/words5.txt");
-		//args = new String[] { "white", "house" }; StdIn.fromFile ("data/words5-knuth.txt");
+		args = new String[] { "flirt", "break" };
+		StdIn.fromFile("data/words5.txt");
+		// args = new String[] { "white", "house" }; StdIn.fromFile ("data/words5.txt");
+		// args = new String[] { "allow", "brown" }; StdIn.fromFile ("data/words5.txt");
+		// args = new String[] { "white", "house" }; StdIn.fromFile
+		// ("data/words5-knuth.txt");
 
 		String from = args[0];
-		String to   = args[1];
+		String to = args[1];
 		if (from.length() != to.length())
 			throw new Error("Words have different lengths");
 
-		/* *****************************************************************
-		 *  Read a list of strings, all of the same length.
-		 *  At most 10000 words supported here.
+		/*
+		 * *****************************************************************
+		 * Read a list of strings, all of the same length.
+		 * At most 10000 words supported here.
 		 *******************************************************************/
 		XIndexSET<String> words = new XIndexSET<>();
 		while (!StdIn.isEmpty()) {
@@ -100,13 +105,14 @@ public class XWordLadder {
 		}
 		System.err.println("Finished reading word list");
 
-		/* *****************************************************************
-		 *  Insert connections between neighboring words into graph.
-		 *  This construction process can be improved from LN^2 to
-		 *  L N log N by sorting, where L = length of words.
+		/*
+		 * *****************************************************************
+		 * Insert connections between neighboring words into graph.
+		 * This construction process can be improved from LN^2 to
+		 * L N log N by sorting, where L = length of words.
 		 *
-		 *  We insert two copies of each edge, but this is easily avoided
-		 *  by checking if word1.compareTo(word2) < 0
+		 * We insert two copies of each edge, but this is easily avoided
+		 * by checking if word1.compareTo(word2) < 0
 		 *
 		 *******************************************************************/
 		Graph G = new Graph(words.size());
@@ -119,17 +125,18 @@ public class XWordLadder {
 		}
 		System.err.println("Finished building graph");
 
-		/* *****************************************************************
-		 *  Run breadth first search
+		/*
+		 * *****************************************************************
+		 * Run breadth first search
 		 *******************************************************************/
 		BreadthFirstPaths bfs = new BreadthFirstPaths(G, words.indexOf(from));
-		//DepthFirstPaths bfs = new DepthFirstPaths(G, words.indexOf(from));
+		// DepthFirstPaths bfs = new DepthFirstPaths(G, words.indexOf(from));
 		if (bfs.hasPathTo(words.indexOf(to))) {
 			StdOut.println("length = " + bfs.distTo(words.indexOf(to)));
 			for (int v : bfs.pathTo(words.indexOf(to))) {
 				StdOut.println(words.keyOf(v));
 			}
-		}
-		else StdOut.println("NOT CONNECTED");
+		} else
+			StdOut.println("NOT CONNECTED");
 	}
 }

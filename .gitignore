@@ -1,1 +1,6 @@
 *.txt
+/bin/
+/lib/
+.vscode
+*.jar
+*.war
