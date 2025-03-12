@@ -59,11 +59,18 @@ public class NFA {
         this.finalState.addAll(b.finalState);
     }
 
+    public void optional() {
+        this.finalState.add(this.startState);
+    }
+
     // This feels like its going to create infinite loops
     public void kleeneStar() {
         for (State s : this.finalState) {
             s.addEpsilonState(this.startState);
-            this.startState.addEpsilonState(s);
         }
+        State newState = new State();
+        this.startState.addEpsilonState(newState);
+        this.finalState.add(this.startState);
+        this.finalState.add(newState);
     }
 }

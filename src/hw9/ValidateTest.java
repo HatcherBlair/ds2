@@ -5,13 +5,6 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class ValidateTest {
-    /*
-     * Alphabet is ASCII characters 48-57, 65-90, and 97-122 for now
-     * TODO: Add escape functionality to handle special chars in regex
-     * TODO: Add more operators (currently only |, ., *)
-     * TODO: Implement infix -> postfix conversion
-     * TODO: Implement NFA to DFA
-     */
 
     @Test
     public void singleChar() {
@@ -56,5 +49,115 @@ public class ValidateTest {
         assertTrue(val.matches());
         val.setValidate("abcdefgh");
         assertFalse(val.matches());
+    }
+
+    @Test
+    public void alternationTest() {
+        Validate val = new Validate();
+
+        val.setRegex("ab|");
+        val.setValidate("a");
+        assertTrue(val.matches());
+        val.setValidate("b");
+        assertTrue(val.matches());
+        val.setValidate("");
+        assertFalse(val.matches());
+        val.setValidate("ab");
+        assertFalse(val.matches());
+
+        val.setRegex("ba.dc.|");
+        val.setValidate("ab");
+        assertTrue(val.matches());
+        val.setValidate("cd");
+        assertTrue(val.matches());
+        val.setValidate("abc");
+        assertFalse(val.matches());
+    }
+
+    @Test
+    public void kleeneStarTest() {
+        Validate val = new Validate();
+
+        val.setRegex("e*");
+        val.setValidate("");
+        assertTrue(val.matches());
+
+        val.setValidate("e");
+        assertTrue(val.matches());
+        val.setValidate("ee");
+        assertTrue(val.matches());
+        val.setValidate("eee");
+        assertTrue(val.matches());
+        val.setValidate("eeee");
+        assertTrue(val.matches());
+        val.setValidate("eeeee");
+        assertTrue(val.matches());
+        val.setValidate("eeeeee");
+        assertTrue(val.matches());
+        val.setValidate("ef");
+        assertFalse(val.matches());
+        val.setValidate("eef");
+        assertFalse(val.matches());
+        val.setValidate("fe");
+        assertFalse(val.matches());
+        val.setValidate("free");
+        assertFalse(val.matches());
+        val.setValidate("eeece");
+        assertFalse(val.matches());
+
+        val.setRegex("ba.*");
+        val.setValidate("ab");
+        assertTrue(val.matches());
+        val.setValidate("");
+        assertTrue(val.matches());
+        val.setValidate("abab");
+        assertTrue(val.matches());
+        val.setValidate("ababab");
+        assertTrue(val.matches());
+
+        val.setValidate("ba");
+        assertFalse(val.matches());
+        val.setValidate("aba");
+        assertFalse(val.matches());
+        val.setValidate("abb");
+        assertFalse(val.matches());
+        val.setValidate("cab");
+        assertFalse(val.matches());
+        val.setValidate("abc");
+        assertFalse(val.matches());
+    }
+
+    @Test
+    public void optionalTest() {
+        Validate val = new Validate();
+
+        val.setRegex("e?");
+        val.setValidate("");
+        assertTrue(val.matches());
+        val.setValidate("e");
+        assertTrue(val.matches());
+        val.setValidate("ee");
+        assertFalse(val.matches());
+        val.setValidate("fe");
+        assertFalse(val.matches());
+
+        val.setRegex("ba.?");
+        val.setValidate("ab");
+        assertTrue(val.matches());
+        val.setValidate("");
+        assertTrue(val.matches());
+        val.setValidate("ba");
+        assertFalse(val.matches());
+        val.setValidate("bac");
+        assertFalse(val.matches());
+
+        val.setRegex("ba.dc.|?");
+        val.setValidate("ab");
+        assertTrue(val.matches());
+        val.setValidate("cd");
+        assertTrue(val.matches());
+        val.setValidate("");
+        assertTrue(val.matches());
+
     }
 }

@@ -64,6 +64,12 @@ public class Validate {
                     a.kleeneStar();
                     stack.push(a);
                     break;
+                case '?':
+                    assert stack.size() >= 1 : "Stack too short to ?";
+                    a = stack.pop();
+                    a.optional();
+                    stack.push(a);
+                    break;
                 default:
                     State start = new State();
                     State end = new State();
