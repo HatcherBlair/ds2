@@ -14,10 +14,6 @@ public class Validate {
     private String regex;
     private String validate;
     private NFA automata;
-    private long startBuild;
-    private long finishBuild;
-    private long startValidate;
-    private long finishValidate;
 
     public Validate() {
 
@@ -26,9 +22,7 @@ public class Validate {
     public Validate(String regex, String validate) {
         this.regex = regex;
         this.validate = validate;
-        startBuild = System.currentTimeMillis();
         build();
-        finishBuild = System.currentTimeMillis();
     }
 
     public void setRegex(String regex) {
@@ -88,9 +82,7 @@ public class Validate {
     }
 
     public boolean matches() {
-        startValidate = System.currentTimeMillis();
         boolean ret = this.automata.matches(validate);
-        finishValidate = System.currentTimeMillis();
         return ret;
     }
 

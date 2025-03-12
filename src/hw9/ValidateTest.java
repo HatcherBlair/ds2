@@ -160,4 +160,53 @@ public class ValidateTest {
         assertTrue(val.matches());
 
     }
+
+    @Test
+    public void Temp() {
+        Validate val = new Validate();
+        val.setRegex("aa.a|");
+        val.setValidate("a");
+        assertTrue(val.matches());
+        val.setValidate("aa");
+        assertTrue(val.matches());
+        val.setValidate("aaa");
+        assertFalse(val.matches());
+
+        val.setRegex("aa.a|*");
+        val.setValidate("aaaaaaaaaaaaaaaaa");
+        assertTrue(val.matches());
+        val.setValidate("aaa");
+        assertTrue(val.matches());
+    }
+
+    @Test
+    public void timingTest() {
+        Validate val = new Validate();
+        long start, finish;
+
+        String[] testStrings = { "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+                "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+                "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+                "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+                "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+                "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac",
+        };
+
+        System.out.println("Starting build: (a|aa)*b");
+        start = System.nanoTime();
+        val.setRegex("aa.a|*b.");
+        finish = System.nanoTime();
+        System.out.printf("Regex took %d.%dns to build\n\n", (finish - start) / 1000, (finish - start) % 1000);
+
+        System.out.println("Starting string validation tests");
+        for (String s : testStrings) {
+            System.out.printf("Testing string:  %s\n", s);
+            start = System.nanoTime();
+            val.setValidate(s);
+            assertFalse(val.matches());
+            finish = System.nanoTime();
+            System.out.printf("Validated string %s in %d.%dns\n\n", s, (finish - start) / 1000,
+                    (finish - start) % 1000);
+        }
+    }
 }
